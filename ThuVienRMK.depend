@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1625455390 source:c:\users\nomi8\downloads\ctdl77\main.cpp
+	"Xu_Ly.h"
+
+1625535472 c:\users\nomi8\downloads\ctdl77\xu_ly.h
+	<tchar.h>
+	"DSDocGia.h"
+	"DauSach.h"
+	<fstream>
+
+1625640383 c:\users\nomi8\downloads\ctdl77\dsdocgia.h
+	<iostream>
+	"XuLyTam.h"
+	"Muon_Tra.h"
+	<string>
+	"GlobalVariable.h"
+	"Check_Nhap.h"
+	"Ve_Hinh.h"
+	"mylib.h"
+
+1625070100 c:\users\nomi8\downloads\ctdl77\xulytam.h
+	<iostream>
+	"Mark.h"
+
+1625641857 c:\users\nomi8\downloads\ctdl77\mark.h
+
+1625463632 c:\users\nomi8\downloads\ctdl77\muon_tra.h
+	"Ngay_Thang.h"
+	"DauSach.h"
+
+1625207330 c:\users\nomi8\downloads\ctdl77\ngay_thang.h
+	<time.h>
+	<iostream>
+	"mylib.h"
+	"Mark.h"
+
+1625070100 c:\users\nomi8\downloads\ctdl77\mylib.h
+	<Windows.h>
+	"Mark.h"
+	"GlobalVariable.h"
+
+1624909438 c:\users\nomi8\downloads\ctdl77\globalvariable.h
+	<string>
+
+1625647047 c:\users\nomi8\downloads\ctdl77\dausach.h
+	"mylib.h"
+	"Ve_Hinh.h"
+	"Check_Nhap.h"
+	"GlobalVariable.h"
+	"Ngay_Thang.h"
+	"Mark.h"
+
+1625534674 c:\users\nomi8\downloads\ctdl77\ve_hinh.h
+	<iostream>
+	"Mark.h"
+	"mylib.h"
+	<string>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+
+1625475880 c:\users\nomi8\downloads\ctdl77\check_nhap.h
+	"Mark.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<conio.h>
+	"mylib.h"
+	"Ngay_Thang.h"
+

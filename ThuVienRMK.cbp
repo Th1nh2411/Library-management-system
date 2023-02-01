@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ThuVienRMK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="ThuVienRMK" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="Check_Nhap.h" />
+		<Unit filename="DSDocGia.h" />
+		<Unit filename="DauSach.h" />
+		<Unit filename="GlobalVariable.h" />
+		<Unit filename="Mark.h" />
+		<Unit filename="Muon_Tra.h" />
+		<Unit filename="Ngay_Thang.h" />
+		<Unit filename="ThuVienRMK.dev" />
+		<Unit filename="Ve_Hinh.h" />
+		<Unit filename="XuLyTam.h" />
+		<Unit filename="Xu_Ly.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mylib.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
